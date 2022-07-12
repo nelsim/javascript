@@ -1,4 +1,4 @@
-#Contador
+# Contador
 
 O Contador é meu primeiro projeto em Javascript.
 
