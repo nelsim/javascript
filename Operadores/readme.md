@@ -1,4 +1,4 @@
-Sintaxe e Operadores
+#Sintaxe e Operadores.
 Este repositório contém a atividade prática do Curso "Sintaxe e Operadores", que faz parte do Basecamp de Javascript que foi ministrado pela Stephany Nusch pela Digital Innovation One.
 
 Atividade
